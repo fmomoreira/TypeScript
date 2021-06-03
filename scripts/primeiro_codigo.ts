@@ -12,10 +12,8 @@ console.log("Criando class com TypeScript");
 class Produto {
   nome: string;
   valor: number;
-  constructor(produtoNome, produtoValor) {
+  constructor(produtoNome: string, produtoValor: number) {
     this.nome = produtoNome;
     this.valor = produtoValor;
-
-
   }
 }

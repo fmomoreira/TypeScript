@@ -1,3 +1,4 @@
+"use strict";
 console.log("Hellow World");
 console.log("===================");
 var nome = "Joao";
@@ -11,3 +12,4 @@ var Produto = /** @class */ (function () {
     }
     return Produto;
 }());
+//# sourceMappingURL=primeiro_codigo.js.map
